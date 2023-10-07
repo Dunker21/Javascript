@@ -4,7 +4,7 @@
 
 let name="Vinay"
 let age=20
-let expectation=392384820484023231
+let expectation=392384820484023231n
 let single= true
 let income=null
 let skills=undefined
